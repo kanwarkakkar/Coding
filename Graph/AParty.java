@@ -2,8 +2,6 @@ package Graph;
 import java.util.*;
 public class AParty {
     
-
-        
     public static void main(String[] args){
         AParty A = new AParty();
         Scanner sc = new Scanner(System.in);
